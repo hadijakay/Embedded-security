@@ -22,7 +22,9 @@ to acomplish that we will adopt the following approach:
 - Synthesizing the overlays (Task 3)
 - Compare FPGA vs CPU (HW vs SW) performance (in function of matrix size) in the Jupyter notebook (Task 4)
 
-
+# Group 20
+- khadija NEZHARI 
+- Adil Ouzzane
 # Estimated time
 we will split the tasks between us so that we can finish the project in the estimated time of 39 hours .
 
